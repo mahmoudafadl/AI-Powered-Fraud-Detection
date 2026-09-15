@@ -1,0 +1,8 @@
+# Runtime dependencies tested with this project environment
+
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+xgboost==3.2.0
+joblib==1.5.3
+streamlit==1.63.0
